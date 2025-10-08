@@ -1,0 +1,3 @@
+// 28 VISBY
+// 46 TINGSRYD
+export const FORBIDDEN_TRACKS = [28, 46]
